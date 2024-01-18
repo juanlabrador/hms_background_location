@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Picap</string>
+    <string name="driver_mode_enable">Modo motorista ativado</string>
+    <string name="driver">Conductor</string>
+    <string name="gps_title_verification">Solicitação de localização</string>
+</resources>

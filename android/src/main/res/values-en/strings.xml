@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Picap</string>
+    <string name="driver_mode_enable">Driver mode enabled</string>
+    <string name="driver">Driver</string>
+    <string name="gps_title_verification">Location required</string>
+</resources>
